@@ -1,0 +1,5 @@
+default:
+  welcome: Welcome to this site !!.
+  goodbye: We thank you for visiting this site. Have a great day.
+  projectlist: The list of all projects is as follows.
+  anotherkey: What ever is your default text.

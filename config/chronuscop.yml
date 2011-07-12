@@ -1,0 +1,23 @@
+development:
+  redis_db_number: 3
+  redis_server_port: 6379
+  project_number: 3
+  api_token: skq6ZA7h7H-uJqqqBj_c
+  chronuscop_server_address: http://chronuscop.heroku.com
+  sync_time_interval: 10
+
+test:
+  redis_db_number: 3
+  redis_server_port: 6379
+  project_number: 3
+  api_token: skq6ZA7h7H-uJqqqBj_c
+  chronuscop_server_address: http://chronuscop.heroku.com
+  sync_time_interval: 10
+  
+production:
+  redis_db_number: 3
+  redis_server_port: 6379
+  project_number: 3
+  api_token: skq6ZA7h7H-uJqqqBj_c
+  chronuscop_server_address: http://chronuscop.heroku.com
+  sync_time_interval: 10
